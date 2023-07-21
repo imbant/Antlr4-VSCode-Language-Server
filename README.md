@@ -22,7 +22,7 @@ npm run watch
 
 在新弹出的\[扩展开发宿主\]窗口里，打开任意文件，写符合语法的代码，然后 Ctrl + Shift + P，执行 `Run Mao Language`，有弹窗显示当前打开的文件的执行结果
 
-![](assets\image\maolang.gif)
+![](assets/image/maolang.gif)
 
 # Q&A
 
